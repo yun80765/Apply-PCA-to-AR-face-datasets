@@ -1,6 +1,7 @@
 # Apply-PCA-to-AR-face-datasets
 
-<img src="https://i.imgur.com/lmxCGI4.png" alt="ARdataset" width="400">
+<img src="https://i.imgur.com/lmxCGI4.png" alt="ARdataset" >
+
 ## Apply PCA to AR face datasets. It comprises images from 100 subjects, each of which has 26 images in lighting and occlusion conditions.
 <p>(a) Using PCA to project the data into a space of dimensionality d = 1, 5, 9. To do so, use session 1 as training set to compute eigenvectors and use session 2 as testing images.
 Then, show the following results:</p>
