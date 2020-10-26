@@ -4,6 +4,7 @@
 Then, show the following results:
 
 (i) For each value of d, show the d eigenfaces, and
+
 (ii) For each subject, randomly select an image from its test set, and then display the respective approximation using the d eigenfaces (for each value of d).
 
 
